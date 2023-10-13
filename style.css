@@ -1,0 +1,35 @@
+body{
+background-color:#FEE3D8;    
+}
+button{
+    padding: 10px;
+    color:#0f090b; 
+    border-radius:10px; 
+    border: none;
+    margin-top: 20px;
+    background-color: #bfee62;
+}
+table, th,td{
+    border: 1px solid #0f090b;
+    border-collapse:collapse;
+}
+th,td{
+ padding: 10px 50px 10px 10px ;
+ text-align: left;   
+}
+
+.container{
+    max-width: 500px ;
+    margin: 20px auto;
+    
+}   
+        
+   table{
+    width:100%
+   } 
+h1{
+    font-size:20px ;
+}
+*{
+font-family:sans-serif, Arial, Helvetica     
+}
